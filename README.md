@@ -6,7 +6,7 @@ In the past, I have worked with NetWeb Technologies as a Data Science Intern. I 
 
 Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
 
-Things I'm good at:
+### Things I'm good at:
 
 Languages: Python, SQL, Ruby, C, C++ 
 
