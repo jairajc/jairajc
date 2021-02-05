@@ -8,7 +8,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 
 ### Things I'm good at:
 
-Languages: Python, SQL, Ruby, C, C++ 
+Languages: Python, SQL, Ruby, Java, C++ 
 
 Framework: Flask, Ruby on Rails, AngularJS, Bootstrap.
 
