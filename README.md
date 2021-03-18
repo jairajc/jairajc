@@ -51,19 +51,12 @@ Here are some ideas to get you started:
 </a>
 -->
 
-<a href="https://github.com/rohan2810/rohan2810">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan2810&hide=issues,prs&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="Rohan's GitHub stats" />
+<a href="https://github.com/jairajc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jairajc&hide=issues,prs&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="Jai's GitHub stats" />
 </a>
-<a href="https://github.com/rohan2810/rohan2810">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan2810&layout=compact&exclude_repo=NYU-AI-Winter-School&theme=dracula" />
+<a href="https://github.com/jairajc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairajc&layout=compact&exclude_repo=NYU-AI-Winter-School&theme=dracula" />
 </a>
 
 
-<!--
-[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan2810&hide=issues,prs&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan2810&layout=compact&exclude_repo=NYU-AI-Winter-School&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rohan2810&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
--->
