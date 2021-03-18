@@ -25,7 +25,7 @@ Data Analysis: Exploratory Data Analysis, Natural Language Processing, Image Pro
   </a> &nbsp;  
   
   <a href="https://www.linkedin.com/in/jai-raj-choudhary-a6843a171/">
-    <img src="https://img.shields.io/badge/Jai-Raj-Choudhary-blue?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/Jai-Raj-blue?style=flat&logo=linkedin">
   </a> &nbsp;   
 
 
