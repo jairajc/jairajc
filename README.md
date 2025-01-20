@@ -32,12 +32,5 @@ Data Analysis: Exploratory Data Analysis, Natural Language Processing, Image Pro
 
 
 
-<a href="https://github.com/jairajc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jairajc&hide=issues,prs&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="Jai's GitHub stats" />
-</a>
-<a href="https://github.com/jairajc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairajc&layout=compact&exclude_repo=NYU-AI-Winter-School&theme=dracula" />
-</a>
-
 
 
