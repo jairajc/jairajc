@@ -11,7 +11,7 @@
 
 
 
-I am Jai Raj Choudhary, a dedicated Data Scientist based in Chicago, IL, with a Master of Science in Artificial Intelligence from the Illinois Institute of Technology. I bring three years of experience, specializing in Natural Language Processing and tackling finance-related data science challenges. My professional journey includes developing and refining machine learning models for document processing and real-time data frameworks, which have significantly boosted efficiency and accuracy. At Lineal Services, LLC, I have led advancements in NLP applications, resulting in substantial revenue growth and improved customer satisfaction. My skill set is extensive, with proficiency in Python, R, Java, and various AI technologies, equipping me well for innovative and impactful projects in data science.
+I am Jai Raj Choudhary, AI Engineer based in San Francisco, CA, with a Master of Science in Artificial Intelligence from the Illinois Institute of Technology. I bring three years of experience, specializing in Natural Language Processing and tackling finance-related data science challenges. My professional journey includes developing and refining machine learning models for document processing and real-time data frameworks, which have significantly boosted efficiency and accuracy. At Lineal Services, LLC, I have led advancements in NLP applications, resulting in substantial revenue growth and improved customer satisfaction. My skill set is extensive, with proficiency in Python, R, Java, and various AI technologies, equipping me well for innovative and impactful projects in data science.
 
 
 ### Things I'm good at:
