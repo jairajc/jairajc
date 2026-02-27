@@ -54,7 +54,9 @@
 
 ---
 
-## `> ls skills/`
+<div align="center">
+  <img src="https://img.shields.io/badge/%20%20%3E%20%20ls%20%20skills%2F%20%20-0D1117?style=for-the-badge&logo=gnubash&logoColor=00D4FF" height="34"/>
+</div>
 
 <div align="center">
 
@@ -106,7 +108,9 @@
 
 ---
 
-## `> ./github-stats.sh`
+<div align="center">
+  <img src="https://img.shields.io/badge/%20%20%3E%20%20github%20stats%20%20-0D1117?style=for-the-badge&logo=githubactions&logoColor=00D4FF" height="34"/>
+</div>
 
 <div align="center">
 
